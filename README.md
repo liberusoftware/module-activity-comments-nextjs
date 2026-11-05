@@ -5,7 +5,8 @@ Independent presentation module skeleton for **Activity Comments**. Intended bou
 **Status: skeleton.** This repository supplies package/build structure and an explicit extension entry. It is not a completed feature, production API integration or registry publication. Existing implementations and package identities remain authoritative.
 
 - Capability/source key: `liberusoftware/activity-comments`.
-- Canonical plan: [Activity Comments](https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/nextjs/activity-comments.md).
+- Presentation scope: [Activity Comments](https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/nextjs/activity-comments.md).
+- Canonical ownership record: [source/plan group](https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/nextjs/activity-comments.md).
 - Registry identity: `@liberusoftware/module-activity-comments-nextjs`.
 - Foundation: [module-boilerplate-nextjs](https://github.com/liberusoftware/module-boilerplate-nextjs) at `f36c3c383b38a8ebedb343dffa24cf64bec1817b`.
 

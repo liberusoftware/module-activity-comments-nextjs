@@ -6,6 +6,7 @@
   "foundation": "module-boilerplate-nextjs",
   "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
   "canonicalPlan": "projects/boilerplate/nextjs/activity-comments.md",
+  "presentationPlan": "projects/boilerplate/nextjs/activity-comments.md",
   "identityReviewRequired": false,
   "status": "skeleton",
   "documentedConsumerScopes": [
